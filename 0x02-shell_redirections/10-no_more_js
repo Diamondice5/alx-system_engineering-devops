@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type fb -name "*.js" -delete
